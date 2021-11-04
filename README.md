@@ -1,11 +1,36 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="450px" width="450px" align="right" alt="Computador Marcos">
+ 
  🌎 Olá, Meu nome é Marcos. Sou <strong>Desenvolvedor Front-End.</strong>
+ 
+ 🎓 &nbsp; Estudando Análise e desenvolvimento de sistemas na <a href="https://www.unicarioca.edu.br" target="blank">Unicarioca</a>.
   
- 💻 Habilidades: <strong>HTML, CSS, JavaScript, Sass
+ **Aplicações e Dados** 
+ 
+ ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+ ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+ ![Sass](https://img.shields.io/badge/Sass-333333?style=flat&logo=sass)
   
+  **DevOps**
 
- 
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  
+  **Ferramentas de Desenvolvimento**
 
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
- 
- 
+<p align="left">
+  💌 Entre em contato comigo: ⤵️
+</p>
 
+<p align="left">
+  <a href="mailto:marcos_dez29@hotmail.com?" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+
+  <a href="https://www.linkedin.com/in/marcos-paulo-768a2b1a3/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+
+  <a href="https://www.instagram.com/mvrcosp/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+</p>  
