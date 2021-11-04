@@ -1,10 +1,10 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="450px" width="450px" align="right" alt="Computador Marcos">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Marcos">
  
  🌎 Olá, Meu nome é Marcos. Sou <strong>Desenvolvedor Front-End.</strong>
  
  🎓 &nbsp; Estudando Análise e desenvolvimento de sistemas na <a href="https://www.unicarioca.edu.br" target="blank">Unicarioca</a>.
   
- **Aplicações e Dados** 
+ **Habilidades** 
  
  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
