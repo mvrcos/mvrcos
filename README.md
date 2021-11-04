@@ -1,6 +1,6 @@
 🌎 &nbsp; Olá, Meu nome é Marcos. Sou <strong>Desenvolvedor Front-End.</strong>
  
-🎓 &nbsp; Estudando Análise e desenvolvimento de sistemas na <a href="https://www.unicarioca.edu.br" target="blank">Unicarioca</a>.
+🎓 &nbsp; Estudando Análise e Desenvolvimento de Sistemas na <a href="https://www.unicarioca.edu.br" target="blank">Unicarioca</a>.
   
 **Habilidades** 
  
