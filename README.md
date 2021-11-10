@@ -20,9 +20,9 @@
 
  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-<p align="left">
-  💌 Entre em contato comigo: ⤵️
-</p>
+
+ **Entre em contato comigo:** ⤵️
+
 
 <p align="left">
   <a href="mailto:marcos_dez29@hotmail.com?" alt="Gmail">
