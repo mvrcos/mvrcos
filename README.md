@@ -1,4 +1,4 @@
-# Olá, Meu nome é Marcos. :wave:
+# Olá :wave: , Meu nome é Marcos.
 
 💻 &nbsp; <strong>Sou Desenvolvedor Front-end, apaixonado por tecnologia, e sempre em busca de novos desafios</strong>
 
